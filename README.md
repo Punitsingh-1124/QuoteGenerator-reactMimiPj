@@ -1,12 +1,49 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# 💬 Random Quote Generator
 
-Currently, two official plugins are available:
+A simple beginner-level React project that fetches and displays random inspirational quotes. Great for practicing API calls, React hooks, and styling with CSS!
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 📌 Project Highlights
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- ✅ Built with **ReactJS**
+- 🌐 Fetches quotes from an external API
+- 🔁 Refresh button to get new quotes
+- 🐦 Share quotes on Twitter (X)
+
+---
+
+## 🚀 How to Use
+
+1. Clone the repo:
+   ```bash
+   git clone https://github.com/yourusername/random-quote-generator.git
+   ```
+
+2. Install dependencies:
+   ```bash
+   npm install
+   ```
+
+3. Start the app:
+   ```bash
+   npm run dev
+   ```
+
+---
+
+## 🧠 Skills Practiced
+
+- React functional components
+- `useState` hook
+- Fetching APIs with `async/await`
+- Styling with CSS
+- Handling user events
+
+---
+
+## 🌟 Perfect For
+
+> Beginners who want to learn how to build interactive UIs and fetch data from public APIs using React.
+
